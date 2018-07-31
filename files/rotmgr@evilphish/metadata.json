@@ -1,0 +1,8 @@
+{
+    "uuid": "rotmgr@evilphish",
+    "name": "Rotation Manager",
+    "description": "Display and input device rotation manager.\nEspecially useful for tablets or tablet-laptops like the Lenovo X1 Yoga.\nAllows you to control rotation lock, enabling/disabling of keyboards, etc.\nLicensed GNU/GPLv3+\n",
+    "version": "0.0.1",
+    "original-authors": [ "evilphish@phishtank.de" ],
+    "icon": "force-exit"
+}
